@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Ath Thaariq Dzikrullah S</title>
+</head>
+<h2><center>welcome to inheritance class</center></h2>
+<p>Java Inheritance (Subclass and Superclass)
+In Java, it is possible to inherit attributes and methods from one class to another. We group the <mark> "inheritance concept" </mark> two categories:
+
+<mark>subclass (child) - the class that inherits from another class
+superclass (parent)</mark> - the class being inherited from
+To inherit from a class, use the extends keyword.
+
+In the example below, the Car class (subclass) inherits the attributes and methods from the Vehicle class (superclass):</p>
+<br>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur dolore incidunt cumque saepe et at<mark> <i>consequuntur amet accusamus</i> </mark> Eligendi iusto fuga quae error aut possimus reprehenderit cumque. Iure?</p>
+<br>
+<img src="314527.jpg">
+<body>
+    
+</body>
+</html>
